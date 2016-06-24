@@ -1,0 +1,1 @@
+# setup-linter-and-pre-commit
