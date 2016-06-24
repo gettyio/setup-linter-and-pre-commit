@@ -6,4 +6,8 @@
 - Node Pre-commit
 
 ## How to run it
-Run this script inside your project directory
+1. Run this script inside your project directory
+2. Add the code below to your package.json:
+	```javascript
+	"pre-commit": ["lint", "test"],
+	```
